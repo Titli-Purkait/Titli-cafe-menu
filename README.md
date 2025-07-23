@@ -3,7 +3,6 @@
 A simple and elegant static cafe menu webpage built with HTML and CSS.  
 Designed to showcase a clean UI for Coffee and Dessert items. 🌿
 
-![Titli's Cafe Preview](./preview.png)
 
 ---
 
