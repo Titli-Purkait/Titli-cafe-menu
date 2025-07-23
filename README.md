@@ -18,8 +18,8 @@ Designed to showcase a clean UI for Coffee and Dessert items. 🌿
 
 ## 🧾 Live Demo
 
-Visit the live site here: [GitHub Pages Link](https://your-username.github.io/titlis-cafe-menu/)  
-*(replace with your actual GitHub Pages link)*
+Visit the live site here: [GitHub Pages Link]( https://titli-purkait.github.io/Titli-cafe-menu/)  
+
 
 ---
 
